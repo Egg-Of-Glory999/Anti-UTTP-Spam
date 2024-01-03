@@ -6,24 +6,24 @@
         src = '/assets/icon.png' 
         height = '100' 
         width = '100' 
-        alt = '' 
+        alt = '[ Imagine an icon here ]' 
     >
     <br>
-    YouTube Spammer Purge
+    Anti-UTTP Spam
     <br>
 </h1>
 
 <!---------------------------------[ Badges ]---------------------------------->
 
 <div align = 'center'>   
-    <a href = 'https://github.com/ThioJoe/YT-Spammer-Purge/releases'>
-        <img src = 'https://img.shields.io/github/v/release/ThioJoe/YT-Spammer-Purge?include_prereleases&label=Latest%20Release' height = '20' alt = 'Latest Release'>
+    <a href = 'https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/releases'>
+        <img src = 'https://img.shields.io/github/v/release/Egg-Of-Glory999/Anti-UTTP-Spam?include_prereleases&label=Latest%20Release' height = '20' alt = 'Latest Release'>
     </a>
-    <a href = 'https://github.com/ThioJoe/YT-Spammer-Purge/actions/workflows/codeql-analysis.yml'>
-        <img src = 'https://github.com/ThioJoe/YT-Spammer-Purge/actions/workflows/codeql-analysis.yml/badge.svg' height = '20' alt = 'CodeQL'>
+    <a href = 'https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/actions/workflows/codeql-analysis.yml'>
+        <img src = 'https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/actions/workflows/codeql-analysis.yml/badge.svg' height = '20' alt = 'CodeQL'>
     </a>
-    <a href = 'https://github.com/ThioJoe/YT-Spammer-Purge/actions/workflows/docker-build.yml'>
-        <img src = 'https://github.com/ThioJoe/YT-Spammer-Purge/actions/workflows/docker-build.yml/badge.svg' height = '20' alt = 'docker-build'>
+    <a href = 'https://github.com/Egg-Of-Glory999/Anti-UTTP-Spame/actions/workflows/docker-build.yml'>
+        <img src = 'https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/actions/workflows/docker-build.yml/badge.svg' height = '20' alt = 'docker-build'>
     </a>
 </div>
 
@@ -32,9 +32,9 @@
 **What Is This?** - Allows you to filter and search for spammer comments on your channel and other's channel(s) in many different ways AND delete/report them all at once (see features below). 
 
 **How to Download:** Click the "[Releases]" link on the right, then on the latest release, under 'Assets' click to download "YTSpammerPurge.exe". (You might have to click "Assets" to view the files for the release)
-> * [Linux Setup Instructions](https://github.com/ThioJoe/YouTube-Spammer-Purge/wiki/Linux-Installation-Instructions)
-> * [MacOS Setup Instructions](https://github.com/ThioJoe/YouTube-Spammer-Purge/wiki/MacOS-Instructions)
-> * (Windows installation not necessary if using exe file. But see how to set up required API key [on this page](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key))
+> * [Linux Setup Instructions](https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/wiki/Linux-Installation-Instructions)
+> * [MacOS Setup Instructions](https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/wiki/MacOS-Instructions)
+> * (Windows installation not necessary if using exe file. But see how to set up required API key [on this page](https://github.com/Egg-Of-Glory999/Anti-UTTP-Spam/wiki/Instructions:-Obtaining-an-API-Key))
 
 ### **Detailed Info & Documentation →** Visit the wiki [(Click Here)][Wiki] for more detailed writeups on the program
 
